@@ -11,6 +11,7 @@
                 "workbench.colorTheme": "Default Dark Modern"
             },
             "extensions": [
+                "github.copilot",
                 "alefragnani.bookmarks",
                 "eamodio.gitlens",
                 "dbaeumer.vscode-eslint",
